@@ -1,5 +1,7 @@
 # SGC Chemistry Network Project 1: PFE-PKIS 5
 
+*This page is now archived and has been replaced by https://github.com/StructuralGenomicsConsortium/CNP1-PKIS-5*
+
 This is the landing page for the [Structural Genomics Consortium](https://www.thesgc.org/) (SGC) Chemistry Networks Project Number 1 (SGC-CNP1).
 
 The SGC is asking for you to contribute synthetic chemistry. In return, the SGC is offering biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. If this sounds interesting, and you agree to the simple RULES (link to SGC page), you can get started.
